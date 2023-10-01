@@ -8,5 +8,5 @@ git clone https://github.com/sbadred/Hamiltonian_test.jl.git
 # Quick start
 ```
 using Hamiltonian_test
-(ITensor_tutorial) pkg> test
+(Hamiltonian_test) pkg> test
 ```
